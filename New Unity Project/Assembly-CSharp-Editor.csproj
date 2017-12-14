@@ -56,6 +56,9 @@
      <None Include="Assets\Chapter7\Shader\Chapter7-NormalMapTangentSpace.shader" />
      <None Include="Assets\Chaper 6\Shader\Chapter6-DiffusePixelLevel.shader" />
      <None Include="Assets\Chapter8\Shader\Chapter8-AlphaBlendZWrite.shader" />
+     <None Include="Assets\Chapter9\Shader\Chapter9-AlphaBlendWithShadow.shader" />
+     <None Include="Assets\Chapter9\Shader\Chapter9-Shadow.shader" />
+     <None Include="Assets\Chapter9\Shader\Chapter9-AlphaTestWithShadow.shader" />
      <None Include="Assets\Chapter7\Shader\Chapter7-NormalMapWorldSpace.shader" />
      <None Include="Assets\Chapter7\Shader\Chapter7-MaskTexture.shader" />
      <None Include="Assets\Chapter7\Shader\Chapter7-RampTexture.shader" />
@@ -67,7 +70,9 @@
      <None Include="Assets\Chaper 6\Shader\Chapter6-BlinnPhong.shader" />
      <None Include="Assets\Chaper 6\Shader\Chapter6-DiffuseVertexLevel.shader" />
      <None Include="Assets\Chaper 6\Shader\Chapter6-SpecularPixelLevel.shader" />
+     <None Include="Assets\Chapter9\Shader\Chapter9-ForwardRendering.shader" />
      <None Include="Assets\Chaper 6\Shader\Chapter6-SpecularVertexLevel.shader" />
+     <None Include="Assets\Chapter9\Shader\Chapter9-AttenuationAndShadowUseBuildInFunctions.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
